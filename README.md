@@ -1,1 +1,1 @@
-# study-web-page
+https://devsalimsk.github.io/study-web-page/
